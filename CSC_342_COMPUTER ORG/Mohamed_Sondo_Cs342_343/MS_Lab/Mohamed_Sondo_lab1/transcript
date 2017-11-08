@@ -1,0 +1,14 @@
+# Loading project MasterAdder
+# reading C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini
+# Loading project bitwise
+# Error opening C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd
+# Path name 'C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd' doesn't exist.
+# Error opening C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_and.vhd
+# Path name 'C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_and.vhd' doesn't exist.
+# Error opening C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd
+# Path name 'C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd' doesn't exist.
+# Error opening C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/bitwise.vhd
+# Path name 'C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/bitwise.vhd' doesn't exist.
+# Error opening C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd
+# Path name 'C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd' doesn't exist.
+quit

@@ -1,0 +1,664 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\msroot
+Ccfg_tb_rca
+atestbench
+eMsondo_test_8bitAddSub
+Z0 DEx4 work 17 msondo_8bitaddsub 0 22 <P<dN:6P?oMP8fLJ`TQ512
+DAx4 work 22 msondo_test_8bitaddsub 9 testbench 22 AEE:[[Je;n2TF[nS8^9o72
+Z1 DPx4 work 21 msondo_adders_package 0 22 _>77RNF@bchKg6QA8DRK`1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 DEx4 work 22 msondo_test_8bitaddsub 0 22 G?X[dC22no9YK]BlOfKRO0
+Z7 w1487810430
+Z8 d\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1
+Z9 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_8bitAddSub.vhd
+Z10 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_8bitAddSub.vhd
+l0
+L45
+Vg=LIE?f3XHdK1a^J4o=>e2
+!s100 >J8o?R=?RAh]^?a7NlSmf0
+Z11 OV;C;10.1d;51
+32
+!i10b 0
+Z12 !s108 1487810957.665000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_8bitAddSub.vhd|
+Z14 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_8bitAddSub.vhd|
+Z15 o-work work -2002 -explicit -O0
+Z16 tExplicit 1
+Eequal
+Z17 w1487521446
+R4
+R5
+R8
+Z18 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/equal.vhd
+Z19 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/equal.vhd
+l0
+L4
+VijCY6gICmOigj6JeMgCMG3
+R11
+32
+Z20 !s108 1487555150.269000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/equal.vhd|
+Z22 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/equal.vhd|
+R15
+R16
+!s100 N]czPl@PYcRle[NU<d6g?2
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 5 equal 0 22 ijCY6gICmOigj6JeMgCMG3
+l11
+L9
+V=m_;fR1C<[WZgnJCQBeMO2
+R11
+32
+R20
+R21
+R22
+R15
+R16
+!s100 X0Sfehi46L9^DiQ1[l9zH0
+!i10b 1
+Emsondo_4bitadder
+Z23 w1487798607
+R1
+R4
+R5
+R8
+Z24 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_4bitAdder.vhd
+Z25 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_4bitAdder.vhd
+l0
+L5
+VQmU?;T0YHQBPMCBJMnAbH0
+R11
+32
+Z26 !s108 1487798642.962000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_4bitAdder.vhd|
+Z28 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_4bitAdder.vhd|
+R15
+R16
+!s100 l8C]o[D:89TFGcY@jKe6I1
+!i10b 1
+Aadder_4bit_arc
+R1
+R4
+R5
+DEx4 work 16 msondo_4bitadder 0 22 QmU?;T0YHQBPMCBJMnAbH0
+l26
+L13
+VJiYOd_j`a1G]Rf^jKRokP3
+R11
+32
+R26
+R27
+R28
+R15
+R16
+!s100 ;9`_AQU5[8[43bJ<9kdz81
+!i10b 1
+Emsondo_4bitaddsub
+Z29 w1487780633
+R1
+R4
+R5
+R8
+Z30 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_4bitAddSub.vhd
+Z31 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_4bitAddSub.vhd
+l0
+L5
+V6H`mM;_=<o7Wj4MPPCI[H2
+R11
+32
+Z32 !s108 1487791267.467000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_4bitAddSub.vhd|
+Z34 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_4bitAddSub.vhd|
+R15
+R16
+!s100 6><ZkNmjj>]<6f>z6P`]J0
+!i10b 1
+Astruct
+R1
+R4
+R5
+DEx4 work 17 msondo_4bitaddsub 0 22 6H`mM;_=<o7Wj4MPPCI[H2
+l20
+L12
+VK>8[Te:<:hoCeXA8RE]IP0
+R11
+32
+R32
+R33
+R34
+R15
+R16
+!s100 ;<KgX6Gj<mn^lK8VKX68A2
+!i10b 1
+Emsondo_8bitaddsub
+Z35 w1487810937
+R1
+R4
+R5
+R8
+Z36 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_8bitAddSub.vhd
+Z37 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_8bitAddSub.vhd
+l0
+L5
+V<P<dN:6P?oMP8fLJ`TQ512
+R11
+32
+Z38 !s108 1487810941.978000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_8bitAddSub.vhd|
+Z40 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_8bitAddSub.vhd|
+R15
+R16
+!s100 3aFVd3Z[?Re>U3RdM[nB23
+!i10b 1
+Astruct
+R1
+R4
+R5
+Z41 DEx4 work 17 msondo_8bitaddsub 0 22 <P<dN:6P?oMP8fLJ`TQ512
+l20
+L12
+VhJ>_9^<PQa0X;WmXBl:aB0
+!s100 ac`k3Nz@[LZ@kKM:1]o>Q2
+R11
+32
+R38
+R39
+R40
+R15
+R16
+!i10b 1
+Pmsondo_adders_package
+R4
+R5
+w1487562563
+R8
+8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_Adder_Package.vhd
+F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_Adder_Package.vhd
+l0
+L4
+V_>77RNF@bchKg6QA8DRK`1
+R11
+32
+R15
+R16
+!s100 kZ_jSKSY1_1i^V3kH>]cd1
+!i10b 1
+!s108 1487790989.451000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_Adder_Package.vhd|
+!s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_Adder_Package.vhd|
+Emsondo_eight_bit_equal_port_map
+Z42 w1487554002
+R4
+R5
+R8
+Z43 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_eight_bit_equal_port_map.vhd
+Z44 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_eight_bit_equal_port_map.vhd
+l0
+L4
+VPfEg:PIZ<zM7YmRO1SN252
+R11
+32
+Z45 !s108 1487555212.675000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_eight_bit_equal_port_map.vhd|
+Z47 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_eight_bit_equal_port_map.vhd|
+R15
+R16
+!s100 :EmDR?1>KPDQEGC[7Z6S:0
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 31 msondo_eight_bit_equal_port_map 0 22 PfEg:PIZ<zM7YmRO1SN252
+l15
+L9
+VD7jV>H0QO0kzN[mF____P2
+R11
+32
+R45
+R46
+R47
+R15
+R16
+!s100 ?1nkO3_:VU_KN[nPEjmSC0
+!i10b 1
+Emsondo_fulladder
+Z48 w1487773462
+R1
+R4
+R5
+R8
+Z49 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_FullAdder.vhd
+Z50 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_FullAdder.vhd
+l0
+L7
+VVSE^ZfD`@eb7;C148YE7a0
+R11
+32
+Z51 !s108 1487790989.607000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_FullAdder.vhd|
+Z53 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_FullAdder.vhd|
+R15
+R16
+!s100 o;<J?::nQzJW8IXiojCLN2
+!i10b 1
+Astruct
+R1
+R4
+R5
+DEx4 work 16 msondo_fulladder 0 22 VSE^ZfD`@eb7;C148YE7a0
+l19
+L12
+V?NILdoPkFbXT@e6S@Lcc`1
+R11
+32
+R51
+R52
+R53
+R15
+R16
+!s100 ZJnXN[8nj2AKQkZkSBHDS0
+!i10b 1
+Emsondo_halfadder
+Z54 w1487565128
+R4
+R5
+R8
+Z55 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_halfAdder.vhd
+Z56 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_halfAdder.vhd
+l0
+L6
+VjzTaChTO6l4f;?o0zoQNE2
+R11
+32
+Z57 !s108 1487791457.093000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_halfAdder.vhd|
+Z59 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_halfAdder.vhd|
+R15
+R16
+!s100 ;;=M7FzjA?VF852bME1Ig3
+!i10b 1
+Adataflow
+R4
+R5
+DEx4 work 16 msondo_halfadder 0 22 jzTaChTO6l4f;?o0zoQNE2
+l12
+L11
+VioeNdX5o`gG[a8alYeSEI2
+R11
+32
+R57
+R58
+R59
+R15
+R16
+!s100 BIQfl?EYS:^SYZO:dCNBS3
+!i10b 1
+Emsondo_test_4bitadder
+Z60 w1487798443
+R4
+R5
+R8
+Z61 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_4bitAdder.vhd
+Z62 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_4bitAdder.vhd
+l0
+L5
+VS<fNE;]_b1D5HbhkGz@Y60
+R11
+32
+Z63 !s108 1487798685.493000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_4bitAdder.vhd|
+Z65 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_4bitAdder.vhd|
+R15
+R16
+!s100 GMYNOGRoLnEAHLQXo2l5G1
+!i10b 1
+Abeh
+R4
+R5
+DEx4 work 21 msondo_test_4bitadder 0 22 S<fNE;]_b1D5HbhkGz@Y60
+l19
+L8
+V1o7jkHXF7okPgfC?eW0oa0
+R11
+32
+R63
+R64
+R65
+R15
+R16
+!s100 >2@eHlGzdO7>f=k>zWIhM1
+!i10b 1
+Emsondo_test_8bitaddsub
+R7
+R1
+R2
+R3
+R4
+R5
+R8
+R9
+R10
+l0
+L8
+VG?X[dC22no9YK]BlOfKRO0
+!s100 DEG9lC8;0gWFccn<97@I21
+R11
+32
+!i10b 1
+R12
+R13
+R14
+R15
+R16
+Atestbench
+R1
+R2
+R3
+R4
+R5
+R6
+l24
+L11
+Z66 VAEE:[[Je;n2TF[nS8^9o72
+Z67 !s100 T:?_8O^Ni`_4:JfUjHRnF2
+R11
+32
+!i10b 1
+R12
+R13
+R14
+R15
+R16
+Emsondo_test_eight_bit_equal_port_map
+Z68 w1487555145
+R4
+R5
+R8
+Z69 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_eight_bit_equal_port_map.vhd
+Z70 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_eight_bit_equal_port_map.vhd
+l0
+L5
+VoNjgA6kH[dSQlH[clPSML3
+R11
+32
+Z71 !s108 1487555150.566000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_eight_bit_equal_port_map.vhd|
+Z73 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_eight_bit_equal_port_map.vhd|
+R15
+R16
+!s100 H;;[i>;=5UGAX;@3eIA^j2
+!i10b 1
+Aarch_test
+R4
+R5
+DEx4 work 36 msondo_test_eight_bit_equal_port_map 0 22 oNjgA6kH[dSQlH[clPSML3
+l19
+L9
+VaO9o]jdJIKoLYEYi@LggI2
+R11
+32
+R71
+R72
+R73
+R15
+R16
+!s100 N3`io:V>^e4f:RLN1[S=e2
+!i10b 1
+Emsondo_test_fulladder
+Z74 w1487796060
+R1
+R4
+R5
+R8
+Z75 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_FullAdder.vhd
+Z76 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_FullAdder.vhd
+l0
+L5
+VCIEQKZ]GPgjgCJETaDD;k0
+R11
+32
+Z77 !s108 1487796063.359000
+Z78 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_FullAdder.vhd|
+Z79 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_FullAdder.vhd|
+R15
+R16
+!s100 bTQTRlh@;g9]bin64Rn3D2
+!i10b 1
+Abehavior
+R1
+R4
+R5
+DEx4 work 21 msondo_test_fulladder 0 22 CIEQKZ]GPgjgCJETaDD;k0
+l31
+L8
+Vk<XC^2Og8QUack9Jg33U`0
+R11
+32
+R77
+R78
+R79
+R15
+R16
+!s100 az?fom:g1WgTWQlUV>C]32
+!i10b 1
+Emsondo_test_halfadder
+Z80 w1487796520
+R1
+R4
+R5
+R8
+Z81 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_haflAdder.vhd
+Z82 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_haflAdder.vhd
+l0
+L5
+V<]kb@3a5Nza^jbJf:^LHP2
+R11
+32
+Z83 !s108 1487796538.390000
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_haflAdder.vhd|
+Z85 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_test_haflAdder.vhd|
+R15
+R16
+!s100 Bdb@NZ[Ygg?IDMjc4U?6X3
+!i10b 1
+Abeh
+R1
+R4
+R5
+DEx4 work 21 msondo_test_halfadder 0 22 <]kb@3a5Nza^jbJf:^LHP2
+l17
+L8
+VYU^m224n2h3X1a@fzP`:W2
+R11
+32
+R83
+R84
+R85
+R15
+R16
+!s100 G661S=]jI3QVjP]aA2A602
+!i10b 1
+Emsondo_test_two_bit_equal
+Z86 w1487551566
+R4
+R5
+R8
+Z87 8\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_test_two_bit_equal.vhd
+Z88 F\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_test_two_bit_equal.vhd
+l0
+L5
+VbOzbdACU6M=MH6OMR>^GS3
+R11
+32
+Z89 !s108 1487555150.004000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_test_two_bit_equal.vhd|
+Z91 !s107 \\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_test_two_bit_equal.vhd|
+R15
+R16
+!s100 6NF8oIR7?m<Lj8MHd;T9^0
+!i10b 1
+Aarch_test
+R4
+R5
+DEx4 work 25 msondo_test_two_bit_equal 0 22 bOzbdACU6M=MH6OMR>^GS3
+l19
+L9
+VdJ5:7oQR?^HLNQ`@0?HM60
+R11
+32
+R89
+R90
+R91
+R15
+R16
+!s100 kLJlng8ZbG95YGn`NW_E?0
+!i10b 1
+Emsondo_test_two_bit_equal_port
+Z92 w1487554136
+R4
+R5
+R8
+Z93 8\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_test_two_bit_equal_port.vhd
+Z94 F\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_test_two_bit_equal_port.vhd
+l0
+L5
+V3mleBQ4Kf6L>gLI@di?h91
+R11
+32
+Z95 !s108 1487555150.177000
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_test_two_bit_equal_port.vhd|
+Z97 !s107 \\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_test_two_bit_equal_port.vhd|
+R15
+R16
+!s100 `iJfWhi7==OSRmQ2]UoRP1
+!i10b 1
+Aarch_test
+R4
+R5
+DEx4 work 30 msondo_test_two_bit_equal_port 0 22 3mleBQ4Kf6L>gLI@di?h91
+l19
+L9
+V;9WSVYeINF>@OXHcEmPAG2
+R11
+32
+R95
+R96
+R97
+R15
+R16
+!s100 @<PCKgPd@1MiZfUbYBNR@2
+!i10b 1
+Emsondo_two_bit_equal
+Z98 w1487548097
+R4
+R5
+R8
+Z99 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_two_bit_comparator.vhd
+Z100 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_two_bit_comparator.vhd
+l0
+L5
+VZDhLEgP`Z_X8J<<A<K1OF0
+R11
+32
+Z101 !s108 1487555149.910000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_two_bit_comparator.vhd|
+Z103 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/Msondo_two_bit_comparator.vhd|
+R15
+R16
+!s100 8JkeJUXHbHeLj;MndRB@T1
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 20 msondo_two_bit_equal 0 22 ZDhLEgP`Z_X8J<<A<K1OF0
+l12
+L10
+VLVc8C;Uo<5jmd10JA<[YM2
+R11
+32
+R101
+R102
+R103
+R15
+R16
+!s100 3ZLNDcg^0L3RWg6ijhj_63
+!i10b 1
+Emsondo_two_bit_equal_port
+Z104 w1487553595
+R4
+R5
+R8
+Z105 8\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_two_bit_equal_port.vhd
+Z106 F\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_two_bit_equal_port.vhd
+l0
+L5
+V:K2Y47XO5[?i9RSQH2UMC0
+R11
+32
+Z107 !s108 1487555150.082000
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|\\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_two_bit_equal_port.vhd|
+Z109 !s107 \\Mac\Home\Desktop\SPRING_2017\CSC_343_COMPUTER_ORG2\Lab1\Msondo_two_bit_equal_port.vhd|
+R15
+R16
+!s100 hI1g7i]Yk:TNabNm`7Fmf0
+!i10b 1
+Aarch
+R4
+R5
+DEx4 work 25 msondo_two_bit_equal_port 0 22 :K2Y47XO5[?i9RSQH2UMC0
+l16
+L10
+VJi2JjWNNdo7GZiLC^2ceW1
+R11
+32
+R107
+R108
+R109
+R15
+R16
+!s100 <EjiX7<P9SBiHJCgJ8D<O3
+!i10b 1
+Etest_equal
+Z110 w1487531249
+R4
+R5
+R8
+Z111 8//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/test_equal.vhd
+Z112 F//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/test_equal.vhd
+l0
+L4
+VoQj[Q7UN1MDo81d9kdeH;1
+R11
+32
+Z113 !s108 1487555150.348000
+Z114 !s90 -reportprogress|300|-work|work|-2002|-explicit|//Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/test_equal.vhd|
+Z115 !s107 //Mac/Home/Desktop/SPRING_2017/CSC_343_COMPUTER_ORG2/Lab1/test_equal.vhd|
+R15
+R16
+!s100 TQW0W7;Y0ZYS=:H0gO7YB3
+!i10b 1
+Aarch_test
+R4
+R5
+DEx4 work 10 test_equal 0 22 oQj[Q7UN1MDo81d9kdeH;1
+l17
+L8
+VBOIoBQgCb07MMk]G=4JoW0
+R11
+32
+R113
+R114
+R115
+R15
+R16
+!s100 C@[YDY;oKjmLJ@06bOU>=2
+!i10b 1

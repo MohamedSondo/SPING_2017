@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\csc342\extralab_8bitadder\simulation\qsim
+vMEI_8bitadder
+Z1 Io:dOJWOU<@_06B[iL]]Nl1
+Z2 VgKGL^`XGaN4m3:e5;`Fzk2
+Z3 dC:\altera\13.0sp1\csc342\extralab_8bitadder\simulation\qsim
+Z4 w1487627935
+Z5 8MEI_8bitadder.vo
+Z6 FMEI_8bitadder.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|MEI_8bitadder.vo|
+Z9 o-work work -O0
+Z10 n@m@e@i_8bitadder
+!i10b 1
+Z11 !s100 PR]?<BL2SD93_BBSIo>AE3
+!s85 0
+Z12 !s108 1487627935.685000
+Z13 !s107 MEI_8bitadder.vo|
+!s101 -O0
+vMEI_8bitadder_vlg_check_tst
+!i10b 1
+Z14 !s100 LoG8J7lgnR;4nz1BT[40B3
+Z15 ION5Bgd8OVN[9X<cF=D6Lk3
+Z16 VYH5f21@JHR>8DJCd[gSoC2
+R3
+Z17 w1487627934
+Z18 8MEI_8bitadder.vt
+Z19 FMEI_8bitadder.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z20 !s108 1487627935.815000
+Z21 !s107 MEI_8bitadder.vt|
+Z22 !s90 -work|work|MEI_8bitadder.vt|
+!s101 -O0
+R9
+Z23 n@m@e@i_8bitadder_vlg_check_tst
+vMEI_8bitadder_vlg_sample_tst
+!i10b 1
+Z24 !s100 A2No@iB^fjfcf@6CUkjV71
+Z25 I^K39=JkJdJo;@Dz:B1RcA1
+Z26 V?;fUlD>Ce1RY]zQR339^>3
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@m@e@i_8bitadder_vlg_sample_tst
+vMEI_8bitadder_vlg_vec_tst
+!i10b 1
+!s100 h0NK[K6PjNmj1dJKn=6Uh2
+I;Be<YX6jk0m;z=KcDb_HB2
+Z28 Vha[PGQBLPlmcE;Ki?c3H23
+R3
+R17
+R18
+R19
+Z29 L0 308
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z30 n@m@e@i_8bitadder_vlg_vec_tst

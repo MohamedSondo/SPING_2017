@@ -1,0 +1,218 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\Lab3_Adder_modelsim
+Ecla4
+Z0 w1446524276
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER
+Z4 8C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\CLA4.vhd
+Z5 FC:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\CLA4.vhd
+l0
+L4
+VoD9FkOZMkbG=eS5=b4<4i1
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1446524348.530000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\CLA4.vhd|
+Z9 !s107 C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\CLA4.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 [jcRJ;A_oESgjhh]1Q=5A0
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 4 cla4 0 22 oD9FkOZMkbG=eS5=b4<4i1
+l25
+L11
+VcKQ]::LOc2DKeP]21kCmP0
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 @DWW:hVCjR@WYR6>zIK<00
+!i10b 1
+Efa
+Z12 w1446507110
+R1
+R2
+R3
+Z13 8C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/FA.vhd
+Z14 FC:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/FA.vhd
+l0
+L3
+VA`3ELX<bJ3ND:9PRZ_KO`2
+!s100 ahNmjRJ8lXh3e]KF<OR:k2
+R6
+32
+!i10b 1
+Z15 !s108 1446524348.960000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/FA.vhd|
+Z17 !s107 C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/FA.vhd|
+R10
+R11
+Aarch
+R1
+R2
+Z18 DEx4 work 2 fa 0 22 A`3ELX<bJ3ND:9PRZ_KO`2
+l10
+L9
+Z19 VmS?Q6mgG[XDSSUdT0D[lR1
+Z20 !s100 L2:_Z@FkH]XMmm`CCeLlc0
+R6
+32
+!i10b 1
+R15
+R16
+R17
+R10
+R11
+Efull_adder_g_p
+Z21 w1446506265
+R1
+R2
+R3
+Z22 8C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/FULL_ADDER.vhd
+Z23 FC:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/FULL_ADDER.vhd
+l0
+L4
+V8jNIZ7G8SaK2F[^oPQjc]2
+R6
+32
+Z24 !s108 1446524348.626000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/FULL_ADDER.vhd|
+Z26 !s107 C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/FULL_ADDER.vhd|
+R10
+R11
+!s100 eaH5hF5<Mdf=LW0QdZNcO0
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 14 full_adder_g_p 0 22 8jNIZ7G8SaK2F[^oPQjc]2
+l9
+L8
+Vz7Zjj]O_a@5b`N^=L:P]k1
+R6
+32
+R24
+R25
+R26
+R10
+R11
+!s100 Xm_3adS=f:ifJ]3OZGn?T3
+!i10b 1
+Emux2to1
+Z27 w1446523714
+R1
+R2
+R3
+Z28 8C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\MUX2TO1.vhd
+Z29 FC:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\MUX2TO1.vhd
+l0
+L3
+VJNiaYLG^CCgkYj5Tm[ATl1
+R6
+32
+Z30 !s108 1446524348.738000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\MUX2TO1.vhd|
+Z32 !s107 C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\MUX2TO1.vhd|
+R10
+R11
+!s100 E4TnR>n:bg^Al]XTAj`3a1
+!i10b 1
+Abehavior
+R1
+R2
+DEx4 work 7 mux2to1 0 22 JNiaYLG^CCgkYj5Tm[ATl1
+l10
+L9
+V?KLlg0fJJ0hIWf<]mG_oJ3
+R6
+32
+R30
+R31
+R32
+R10
+R11
+!s100 618<L6>6O0]EhO0MgSYKX1
+!i10b 1
+Erca
+Z33 w1446524238
+R1
+R2
+R3
+Z34 8C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\rca.vhd
+Z35 FC:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\rca.vhd
+l0
+L3
+Vm0?8];?2HoGEWlVz=lo_X1
+R6
+32
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\rca.vhd|
+R10
+R11
+Z37 !s107 C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\rca.vhd|
+!s100 dXhk9e:dNab3iYd5KgQ4G0
+!i10b 1
+!s108 1446524348.453000
+Aarch
+R1
+R2
+DEx4 work 3 rca 0 22 m0?8];?2HoGEWlVz=lo_X1
+l17
+L9
+VMKcFLGQ52l=2NQ^0Vo4F42
+R6
+32
+R36
+R10
+R11
+R37
+!s108 1446524171.588000
+!s100 o>BKS;=KJA7ABN9^AdZ9B1
+!i10b 1
+Erca_add_subtract
+w1446524200
+R1
+R2
+R3
+8C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\RCA_ADD_SUBTRACT.vhd
+FC:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\RCA_ADD_SUBTRACT.vhd
+l0
+L5
+VcYXS6GAlfLhS1:FLfIdRQ2
+R6
+32
+R10
+R11
+!s100 <1K;=Igla20BZUn<17`@F1
+!i10b 1
+!s108 1446524348.887000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\RCA_ADD_SUBTRACT.vhd|
+!s107 C:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB3_ADDER\RCA_ADD_SUBTRACT.vhd|
+Erca_adder_subtractor
+w1446494442
+R1
+R2
+R3
+8C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/rca.vhd
+FC:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/rca.vhd
+l0
+L4
+V_gaQQDHSX94QmfhJ_o:o23
+R6
+32
+R10
+R11
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/rca.vhd|
+!s107 C:/Users/trist/Google Drive/College/Computer Organization/Quartus HW/LAB3_ADDER/rca.vhd|
+!s100 FnOlRN9MLPLXG5M7C^TNT0
+!i10b 1
+!s108 1446494450.347000

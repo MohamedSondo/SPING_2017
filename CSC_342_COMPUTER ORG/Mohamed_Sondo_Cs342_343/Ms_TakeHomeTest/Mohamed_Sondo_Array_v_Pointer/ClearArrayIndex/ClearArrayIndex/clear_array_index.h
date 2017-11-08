@@ -1,0 +1,1 @@
+void clear_array_index(int ary[], int size);

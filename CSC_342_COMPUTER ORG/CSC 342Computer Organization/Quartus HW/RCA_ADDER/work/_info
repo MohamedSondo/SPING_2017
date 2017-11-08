@@ -1,0 +1,145 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Efa
+Z0 w1450213184
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\shosh\Desktop\RCA_ADDER
+Z4 8C:\Users\shosh\Desktop\RCA_ADDER\FA.vhd
+Z5 FC:\Users\shosh\Desktop\RCA_ADDER\FA.vhd
+l0
+L4
+VA`3ELX<bJ3ND:9PRZ_KO`2
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1450215276.128000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\shosh\Desktop\RCA_ADDER\FA.vhd|
+Z9 !s107 C:\Users\shosh\Desktop\RCA_ADDER\FA.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 QY8DcQ8d9IQTCVga@^>Jd0
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 2 fa 0 22 A`3ELX<bJ3ND:9PRZ_KO`2
+l11
+L10
+VmS?Q6mgG[XDSSUdT0D[lR1
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 nUJ<<Kb>bSS[WDba3YjlU0
+!i10b 1
+Emux2to1
+Z12 w1450213199
+R1
+R2
+R3
+Z13 8C:\Users\shosh\Desktop\RCA_ADDER\MUX2TO1.vhd
+Z14 FC:\Users\shosh\Desktop\RCA_ADDER\MUX2TO1.vhd
+l0
+L4
+VJNiaYLG^CCgkYj5Tm[ATl1
+R6
+32
+Z15 !s108 1450215276.347000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\shosh\Desktop\RCA_ADDER\MUX2TO1.vhd|
+Z17 !s107 C:\Users\shosh\Desktop\RCA_ADDER\MUX2TO1.vhd|
+R10
+R11
+!s100 49NVZcND1Kmj:1CaDVB]V3
+!i10b 1
+Abehavior
+R1
+R2
+DEx4 work 7 mux2to1 0 22 JNiaYLG^CCgkYj5Tm[ATl1
+l11
+L10
+V?KLlg0fJJ0hIWf<]mG_oJ3
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 Go@A4mcdcLdom9g<6NIFQ3
+!i10b 1
+Erca
+Z18 w1450215271
+R1
+R2
+R3
+Z19 8C:\Users\shosh\Desktop\RCA_ADDER\RCA.vhd
+Z20 FC:\Users\shosh\Desktop\RCA_ADDER\RCA.vhd
+l0
+L4
+VmYJ[^5f?em[U;@KEk7A7z2
+R6
+32
+Z21 !s108 1450215276.244000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\shosh\Desktop\RCA_ADDER\RCA.vhd|
+Z23 !s107 C:\Users\shosh\Desktop\RCA_ADDER\RCA.vhd|
+R10
+R11
+!s100 Zec:b5<;CNGX_l?KeE=d?2
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 3 rca 0 22 mYJ[^5f?em[U;@KEk7A7z2
+l18
+L10
+V4_igjXed7EiMhDG9K;i7n0
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!s100 cbJz1gS9[MiU;n19B72JX1
+!i10b 1
+Erca_add_subtract
+Z24 w1450215574
+R1
+R2
+R3
+Z25 8C:\Users\shosh\Desktop\RCA_ADDER\RCA_ADD_SUBTRACT.vhd
+Z26 FC:\Users\shosh\Desktop\RCA_ADDER\RCA_ADD_SUBTRACT.vhd
+l0
+L6
+VcYXS6GAlfLhS1:FLfIdRQ2
+!s100 `QXDH5XY@8=]1XI2BicYb3
+R6
+32
+!i10b 1
+!s108 1450215577.397000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\shosh\Desktop\RCA_ADDER\RCA_ADD_SUBTRACT.vhd|
+!s107 C:\Users\shosh\Desktop\RCA_ADDER\RCA_ADD_SUBTRACT.vhd|
+R10
+R11
+Arca_add_subtract_arch
+R1
+R2
+DEx4 work 16 rca_add_subtract 0 22 J_ZYzG8XD3Y6@QGg`YWmR2
+l34
+L14
+V3YUeMf;;z2@XVB`>]iiIH0
+R6
+32
+R27
+R10
+R11
+!s100 cz9Fb@Al]YDWZMSUH7MD11
+!s108 1450215278.932000
+!s107 C:\Users\shosh\Desktop\RCA_ADDER\RCA_ADD_SUBTRACT.vhd|
+!i10b 1

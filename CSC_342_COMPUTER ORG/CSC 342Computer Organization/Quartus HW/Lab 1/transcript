@@ -1,0 +1,55 @@
+# Loading project bitwise
+# reading C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini
+# Loading project bitwise
+# Compile of bitwise.vhd was successful.
+vsim work.bitwise
+# vsim work.bitwise 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.bitwise(arch)
+add wave -position insertpoint  \
+sim:/bitwise/a \
+sim:/bitwise/b \
+sim:/bitwise/result
+run -all
+run -all
+force -freeze sim:/bitwise/a 010 0
+run -all
+run
+run -all
+force -freeze sim:/bitwise/b 111 0
+run -all
+run
+run -all
+force -freeze sim:/bitwise/a 011 0
+run
+# Compile of bitShift.vhd was successful.
+quit -sim
+vsim work.bitshift
+# vsim work.bitshift 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.bitshift(arch)
+add wave -position insertpoint  \
+sim:/bitshift/a \
+sim:/bitshift/result
+run -all
+force -freeze sim:/bitshift/a 11011 0
+force -freeze sim:/bitshift/result 00111 0
+run
+force -freeze sim:/bitshift/a 11001 0
+run
+force -freeze sim:/bitshift/a 10001 0
+run
+# Compile of bitShift.vhd failed with 2 errors.
+vsim work.bitshift
+# vsim work.bitshift 
+# Loading std.standard
+# ** Error: (vsim-13) Recompile work.bitshift(arch) because work.bitshift has changed.
+# 
+# Error loading design
+# Compile of bitShift.vhd failed with 2 errors.
+# Compile of bitShift.vhd failed with 2 errors.
+# Compile of bitShift.vhd failed with 2 errors.

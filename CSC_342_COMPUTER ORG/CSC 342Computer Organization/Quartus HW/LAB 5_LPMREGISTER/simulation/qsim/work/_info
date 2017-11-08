@@ -1,0 +1,105 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB5_LPMREGISTER\simulation\qsim
+vfinalLMP_REG
+!i10b 1
+!s100 2Xb5n<V1j?nEYhPco`_Fm2
+IF@;6;835^5n@0VRED7@4F3
+VLgkg65CKzBBI6[T;^m@PY0
+Z1 dC:\Users\trist\Google Drive\College\Computer Organization\Quartus HW\LAB5_LPMREGISTER\simulation\qsim
+w1447014698
+Z2 8LMP_REG.vo
+Z3 FLMP_REG.vo
+L0 31
+Z4 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1447014698.685000
+!s107 LMP_REG.vo|
+Z5 !s90 -work|work|LMP_REG.vo|
+!s101 -O0
+Z6 o-work work -O0
+nfinal@l@m@p_@r@e@g
+vLMP_REG
+Z7 !s100 z`lM3fk`P3B18n3ln09f=2
+Z8 IT]o>>1ZG<eQbUIE05ecYC0
+Z9 VGe;jZA5o8l>`LUkZ49WgC3
+R1
+Z10 w1446784445
+R2
+R3
+L0 31
+R4
+r1
+31
+R5
+R6
+Z11 n@l@m@p_@r@e@g
+Z12 !s108 1446784445.959000
+Z13 !s107 LMP_REG.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vLMP_REG_vlg_check_tst
+Z14 IOcgZ_zjjbf@CDKdB^oM8c2
+Z15 VTQf1[H8lcm<6WlCOANf1k2
+R1
+Z16 w1446784444
+Z17 8LMP_REG.vt
+Z18 FLMP_REG.vt
+L0 63
+R4
+r1
+31
+Z19 !s108 1446784446.036000
+Z20 !s107 LMP_REG.vt|
+Z21 !s90 -work|work|LMP_REG.vt|
+R6
+Z22 n@l@m@p_@r@e@g_vlg_check_tst
+!i10b 1
+Z23 !s100 8Ulg3WPJjIZECcRJizQgV1
+!s85 0
+!s101 -O0
+vLMP_REG_vlg_sample_tst
+Z24 !s100 b2C>4ei]<=Fh45>zzX:W21
+Z25 IJ1DEgF>`JA[kd;::<hhTI1
+Z26 VPc4C2B6e5Y`klFPP34b_J3
+R1
+R16
+R17
+R18
+L0 29
+R4
+r1
+31
+R19
+R20
+R21
+R6
+Z27 n@l@m@p_@r@e@g_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vLMP_REG_vlg_vec_tst
+Z28 IZ8HA_Oc=25LPdXGH]lTX@3
+Z29 Vl:faR8e77;<<A=E<lLE>i2
+R1
+R16
+R17
+R18
+Z30 L0 741
+R4
+r1
+31
+R19
+R20
+R21
+R6
+Z31 n@l@m@p_@r@e@g_vlg_vec_tst
+!i10b 1
+Z32 !s100 g0hLY;zEbnhaaT=cRABj:1
+!s85 0
+!s101 -O0

@@ -1,0 +1,110 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\sarosh\Google Drive\College\Computer Organization\Quartus HW\Lab 1
+Eall_operations
+Z0 w1442865921
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\sarosh\Google Drive\College\Computer Organization\Quartus HW\Lab2_bitwise
+Z4 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd
+Z5 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd
+l0
+L4
+VBF6?V]O<KcfBH@ec<89XL2
+!s100 XO<SndEJbb:cgAK8W82D10
+Z6 OV;C;10.1d;51
+32
+!i10b 1
+Z7 !s108 1442865925.839000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd|
+Z9 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/all_operations.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Aarch
+R1
+R2
+DEx4 work 14 all_operations 0 22 BF6?V]O<KcfBH@ec<89XL2
+l16
+L13
+V6b4^RQ<jeg7S:WIeEF^KI2
+!s100 eLI^BUVA_TfQ=OjgE5AIj3
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
+Ebitshift
+Z12 w1442372841
+R1
+R2
+R3
+Z13 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_left_shift.vhd
+Z14 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_left_shift.vhd
+l0
+L4
+V72kl4W`Jm]04OY7[V`MEQ1
+R6
+32
+Z15 !s108 1442420324.845000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_left_shift.vhd|
+Z17 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_left_shift.vhd|
+R10
+R11
+!s100 eN`7jS]ab`16AfMO8W_o13
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 8 bitshift 0 22 72kl4W`Jm]04OY7[V`MEQ1
+l11
+L10
+VlJGoL:H`G3`E>;ki?K[Mc2
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 Z@aO8d9idH3>7=1MRJ^8n2
+!i10b 1
+Ebitwise
+Z18 w1442372596
+R1
+R2
+R3
+Z19 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_xor.vhd
+Z20 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_xor.vhd
+l0
+L5
+VjJ^Ca<kY^ZRf9f924zCXX3
+R6
+32
+Z21 !s108 1442420324.548000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_xor.vhd|
+Z23 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab2_bitwise/5_bit_xor.vhd|
+R10
+R11
+!s100 Mm@YY?O_YfgYT3^KTc:^`3
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 7 bitwise 0 22 jJ^Ca<kY^ZRf9f924zCXX3
+l12
+L11
+VlGKQgmk6[6m8Kz1?QLJc^2
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!s100 <NaYkBVkDRNVj?@ze`CK?2
+!i10b 1

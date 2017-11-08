@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\csc342\extralab_4bitsubtract\simulation\qsim
+vMEI_4bitSub
+Z1 IfKcU0j;RZoHmj5LI@Z96g0
+Z2 VL8SYla?Y4e>`XloDBFQ`M2
+Z3 dC:\altera\13.0sp1\csc342\extralab_4bitsubtract\simulation\qsim
+Z4 w1487711454
+Z5 8MEI_4bitSub.vo
+Z6 FMEI_4bitSub.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@m@e@i_4bit@sub
+!i10b 1
+Z10 !s100 Y=of>lnHAcF@mgFembfeK0
+!s85 0
+Z11 !s108 1487711455.865000
+Z12 !s107 MEI_4bitSub.vo|
+Z13 !s90 -work|work|MEI_4bitSub.vo|
+!s101 -O0
+vMEI_4bitSub_vlg_check_tst
+!i10b 1
+!s100 7CQD_T;nL^?`^h87dRT_30
+IBPDQ^BSbBQXHSPVM>^h[22
+VgD3>Bk22DLizjJ5>[ojzn0
+R3
+R4
+Z14 8MEI_4bitSub.vt
+Z15 FMEI_4bitSub.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z16 !s108 1487711456.319000
+Z17 !s107 MEI_4bitSub.vt|
+Z18 !s90 -work|work|MEI_4bitSub.vt|
+!s101 -O0
+R8
+n@m@e@i_4bit@sub_vlg_check_tst
+vMEI_4bitSub_vlg_sample_tst
+!i10b 1
+!s100 gZQ`;IEjM33EcRNb@GSSf1
+I7C[>=TbE_1BLVA5TcIV:N2
+V_DVh`[=lkJE]2MUP^:5[a1
+R3
+R4
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+n@m@e@i_4bit@sub_vlg_sample_tst
+vMEI_4bitSub_vlg_vec_tst
+!i10b 1
+!s100 4DhNn9jG_Qfb<k65FPY5^1
+IibYgS=6zRS9OLdTBl8aDm1
+VFMM6aYKV:3V:c9`3m1@::1
+R3
+R4
+R14
+R15
+L0 317
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+n@m@e@i_4bit@sub_vlg_vec_tst

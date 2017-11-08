@@ -1,0 +1,320 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\sarosh
+Ebitwise
+Z0 w1441916355
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\sarosh\Google Drive\College\Computer Organization\Quartus HW\Lab 1
+Z4 8C:\Users\sarosh\Google Drive\College\Computer Organization\Quartus HW\Lab 1\bitwise.vhd
+Z5 FC:\Users\sarosh\Google Drive\College\Computer Organization\Quartus HW\Lab 1\bitwise.vhd
+l0
+L4
+VjJ^Ca<kY^ZRf9f924zCXX3
+!s100 531jnWkE@CP[SDe`bJJBW2
+Z6 OV;C;10.1d;51
+32
+!i10b 1
+Z7 !s108 1441916360.861000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:\Users\sarosh\Google Drive\College\Computer Organization\Quartus HW\Lab 1\bitwise.vhd|
+Z9 !s107 C:\Users\sarosh\Google Drive\College\Computer Organization\Quartus HW\Lab 1\bitwise.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+Aarch
+R1
+R2
+DEx4 work 7 bitwise 0 22 jJ^Ca<kY^ZRf9f924zCXX3
+l11
+L10
+VkiKnZzUzh85CNGRlGzbz]3
+!s100 g;DClGaj8;HLF7?@BP1?53
+R6
+32
+!i10b 1
+R7
+R8
+R9
+R10
+R11
+Eeight_bit_equal_port_map
+Z12 w1441892164
+R1
+R2
+R3
+Z13 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/eight_bit_equal_port_map.vhd
+Z14 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/eight_bit_equal_port_map.vhd
+l0
+L5
+VikVdObFz>8=BAjUElNbT_0
+R6
+32
+Z15 !s108 1441892180.005000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/eight_bit_equal_port_map.vhd|
+Z17 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/eight_bit_equal_port_map.vhd|
+R10
+R11
+!s100 n?EEQ>b=8<aTfoVlV]WM_2
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 24 eight_bit_equal_port_map 0 22 ikVdObFz>8=BAjUElNbT_0
+l21
+L11
+VYB^9Q3PiaOFLD9_ZbVWS@1
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 8W^Ebg=@DKc:SO[RY71F>2
+!i10b 1
+Eequal
+Z18 w1441820778
+R1
+R2
+R3
+Z19 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/equal.vhd
+Z20 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/equal.vhd
+l0
+L5
+V>j5ogNM6YX4ZO1A99PZ1D3
+R6
+32
+Z21 !s108 1441891694.377000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/equal.vhd|
+Z23 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/equal.vhd|
+R10
+R11
+!s100 R3VoO5LF3[hnAj=Q?n_@`0
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 5 equal 0 22 >j5ogNM6YX4ZO1A99PZ1D3
+l13
+L11
+VbX_5mZOl]ORFYO26`QO?21
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!s100 C>R>Cc:[hCziOb]f=S37]3
+!i10b 1
+Etest_eight_bit_equal_port_map
+Z24 w1441810022
+R1
+R2
+R3
+Z25 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_eight_bit_equal_port_map.vhd
+Z26 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_eight_bit_equal_port_map.vhd
+l0
+L4
+V3j_Dg7A`ZbHQ0zkYd4j032
+R6
+32
+Z27 !s108 1441891695.428000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_eight_bit_equal_port_map.vhd|
+Z29 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_eight_bit_equal_port_map.vhd|
+R10
+R11
+!s100 5Si_gc4PL9@3TIzaoAmLa1
+!i10b 1
+Aarch_test
+R1
+R2
+DEx4 work 29 test_eight_bit_equal_port_map 0 22 3j_Dg7A`ZbHQ0zkYd4j032
+l14
+L6
+Vm4H=NVe>oNg=;6]dl^RF12
+R6
+32
+R27
+R28
+R29
+R10
+R11
+!s100 ]:=9`_04HPNRS=NYKZ<4@0
+!i10b 1
+Etest_equal
+Z30 w1441817128
+R1
+R2
+R3
+Z31 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_equal.vhd
+Z32 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_equal.vhd
+l0
+L3
+VoQj[Q7UN1MDo81d9kdeH;1
+R6
+32
+Z33 !s108 1441891694.533000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_equal.vhd|
+Z35 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_equal.vhd|
+R10
+R11
+!s100 Cd:W9<[h]IJgkSg=_ej970
+!i10b 1
+Aarch_test
+R1
+R2
+DEx4 work 10 test_equal 0 22 oQj[Q7UN1MDo81d9kdeH;1
+l12
+L5
+V_^]B;PWaffTzomibQQmIF0
+R6
+32
+R33
+R34
+R35
+R10
+R11
+!s100 GO;SgVmXUVQ;a<4bE`;zg2
+!i10b 1
+Etest_two_bit_equal
+Z36 w1441810104
+R1
+R2
+R3
+Z37 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_two_bit_equal_port.vhd
+Z38 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_two_bit_equal_port.vhd
+l0
+L3
+VzbA=Q_EGMHcgAgfIWOPHa3
+R6
+32
+Z39 !s108 1441891695.131000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_two_bit_equal_port.vhd|
+Z41 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/test_two_bit_equal_port.vhd|
+R10
+R11
+!s100 ^AgnWKf`fPjE<S<6IK1;Y0
+!i10b 1
+Aarch_test
+R1
+R2
+DEx4 work 18 test_two_bit_equal 0 22 zbA=Q_EGMHcgAgfIWOPHa3
+l13
+L5
+VbZ>UbOi:3cNaK=WP_iSNK0
+R6
+32
+R39
+R40
+R41
+R10
+R11
+!s100 lFQN]YEcbG:QiN<DLcA;81
+!i10b 1
+Etest_two_bit_equal_port
+Z42 w1441498018
+R1
+R2
+R3
+R37
+R38
+l0
+L3
+VXIU]^5Wo:ccZl2UPJU00V1
+R6
+32
+Z43 !s108 1441809832.910000
+R40
+R41
+R10
+R11
+!s100 Z?:5c>bgdMZohzbznj;^J1
+!i10b 1
+Aarch_test
+R1
+R2
+DEx4 work 23 test_two_bit_equal_port 0 22 XIU]^5Wo:ccZl2UPJU00V1
+l13
+L5
+VhiS7LzRgTHVXWY56XQNh70
+R6
+32
+R43
+R40
+R41
+R10
+R11
+!s100 Y[fFiPC_e700j63aQaGW00
+!i10b 1
+Etwo_bit_equal
+Z44 w1441665274
+R1
+R2
+R3
+Z45 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/two_bit_equal.vhd
+Z46 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/two_bit_equal.vhd
+l0
+L5
+V2_Lo>bMTbNG<_OFY63chN2
+R6
+32
+Z47 !s108 1441891694.674000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/two_bit_equal.vhd|
+Z49 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/two_bit_equal.vhd|
+R10
+R11
+!s100 _OnAGml90708Z[WgAV3LZ3
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 13 two_bit_equal 0 22 2_Lo>bMTbNG<_OFY63chN2
+l12
+L10
+Vo]Zl1NR5A7F_EzYE<1S4j0
+R6
+32
+R47
+R48
+R49
+R10
+R11
+!s100 QVQB:j9:PGLXlOSfdN;=<3
+!i10b 1
+Etwo_bit_equal_port
+Z50 w1441818438
+R1
+R2
+R3
+Z51 8C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/two_bit_equal_port.vhd
+Z52 FC:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/two_bit_equal_port.vhd
+l0
+L4
+V<?_8jS6HHl9>ZUm<5oU621
+R6
+32
+Z53 !s108 1441891694.991000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/two_bit_equal_port.vhd|
+Z55 !s107 C:/Users/sarosh/Google Drive/College/Computer Organization/Quartus HW/Lab 1/two_bit_equal_port.vhd|
+R10
+R11
+!s100 VF>TmC>[l=[lD>7[UJY5<1
+!i10b 1
+Aarch
+R1
+R2
+DEx4 work 18 two_bit_equal_port 0 22 <?_8jS6HHl9>ZUm<5oU621
+l18
+L9
+VoN@NdMIo[mBRR5d89DMje3
+R6
+32
+R53
+R54
+R55
+R10
+R11
+!s100 nHE9W9=89]ceQRS4h[A_13
+!i10b 1

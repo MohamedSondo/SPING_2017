@@ -1,0 +1,77 @@
+ SELECT  ID, NAME, AMOUNT, DATE
+   FROM CUSTOMERS
+   LEFT JOIN ORDERS
+   ON CUSTOMERS.ID = ORDERS.CUSTOMER_ID
+UNION ALL
+   SELECT  ID, NAME, AMOUNT, DATE
+   FROM CUSTOMERS
+   RIGHT JOIN ORDERS
+   ON CUSTOMERS.ID = ORDERS.CUSTOMER_ID;
+
+
+    SELECT *FROM salesdetail
+   LEFT JOIN sales
+   ON salesdetail.stor_id =sales.stor_id
+UNION ALL
+   SELECT  *
+   FROM sales
+   RIGHT JOIN salesdetail
+   ON sales.ord_num = salesdetail.ord_num;
+
+
+
+
+
+   CREATE TABLE saleandsalesdetail SELECT*
+FROM salesdetail , sales
+WHERE salesdetail.stor_id =sales.stor_id
+UNION all
+SELECT * FROM salesdetail , sales
+WHERE sales.ord_num = salesdetail.ord_num;
+
+
+SELECT * FROM salesandsalesdetail LEFT JOIN sales ON salesandsalesdetail.stor_id = sales.stor_id
+
+SELECT * FROM salesdetail LEFT JOIN sales ON salesdetail.stor_id = sales.stor_id
+
+
+
+UPDATE table1 t1
+INNER JOIN Tabel2 t2 ON t1.id = t2.id 
+SET t1.age = t2.age;
+
+
+
+UPDATE salesdetailandsalesdetail 
+INNER JOIN sales ON salesdetailandsalesdetail.stor_id = sales.stor_id
+SET salesdetailandsalesdetail.date = sales.date
+
+
+
+
+
+UPDATE salesdetailandsalesdetail 
+INNER JOIN sales ON salesdetailandsalesdetail.stor_id = sales.stor_id
+INNER JOIN sales ON salesdetailandsalesdetail.ord_num = sales.ord_num
+SET salesdetailandsalesdetail.date = sales.date
+
+
+
+UPDATE salesdetailandsalesdetail INNER JOIN sales ON salesdetailandsalesdetail.stor_id = sales.stor_id and salesdetailandsalesdetail.ord_num = sales.ord_num SET salesdetailandsalesdetail.date = sales.date
+
+
+
+
+CREATE TABLE titleauthor_and_titles
+  AS (SELECT * FROM titles);
+
+
+  ALTER TABLE titleauthor_and_titles ADD au_id varchar(11),
+au_ord tinyint(4),
+royaltyper int(11);
+
+
+UPDATE titleauthor_and_titles INNER JOIN titleauthor ON titleauthor_and_titles.title_id = titleauthor.title_id  SET titleauthor_and_titles.au_id = titleauthor.au_id, titleauthor_and_titles.au_ord=titleauthor.au_ord,titleauthor_and_titles.royaltyper=titleauthor.royaltyper;
+
+
+

@@ -1,0 +1,9 @@
+q1-select stor_id, ord_num from salesdetail where title_id = "TC4203";
+q2-select title_id from titleauthor where au_id="743-41-1303"
+q3-SELECT stor_id,title_id,ord_num FROM salesdetail WHERE discount BETWEEN 25 and 50;
+q4-SELECT COUNT(DISTINCT discounttype) as Total from discounts
+q5-SELECT title from titles WHERE type='romance'ORDER by price asc LIMIT 5
+q6-select type, max(price) from titles WHERE price is not null GROUP by type ORDER by price DESC
+q7-SELECT titles.title as OUTPUT FROM titles INNER JOIN salesdetail on titles.title_id=salesdetail.title_id where qty=(SELECT max(qty) FROM salesdetail)
+q8-SELECT authors.au_fname,authors.au_lname, COUNT(titleauthor.title_id) AS num_books FROM authors INNER JOIN titleauthor ON authors.au_id = titleauthor.au_id GROUP BY authors.au_id ORDER BY num_books DESC limit 1
+q9-SELECT title as bookname, rating as Rating, content as contents, name as publication from titles INNER join reviews on titles.title_id=reviews.title_id INNER join periodicals on reviews.periodical_id=periodicals.periodical_id WHERE titles.title_id ='BU1032'
